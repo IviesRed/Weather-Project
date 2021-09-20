@@ -34,7 +34,7 @@ let curDays = [
   "Wednesday",
   "Thursday",
   "Friday",
-  "Saturday"
+  "Saturday",
 ];
 
 //Modifying the top text
